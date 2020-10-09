@@ -3,7 +3,8 @@ python-rabin-fingerprint
 ========================
 
 It seems that the hash values are calculated in normal way. I mean, 
-in fact, a left-shift in bit level(<<) will be more efficient. 
+in fact, a left-shift in bit level(<<) will be more efficient. You 
+may read update in src/rabin.c.
 
 [![Build Status](https://travis-ci.org/cschwede/python-rabin-fingerprint.svg?branch=master)](https://travis-ci.org/cschwede/python-rabin-fingerprint)
 
